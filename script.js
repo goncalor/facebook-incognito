@@ -8,7 +8,6 @@ var intervalId = setInterval(function() {
     if (element != null){
       // remove the overlay element
       element.parentNode.parentNode.parentNode.remove();
-      // alert(JSON.stringify(element));
     }
     // else could not find element
   }
