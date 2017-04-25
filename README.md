@@ -5,6 +5,7 @@ Do you ever browse Facebook without logging in? Maybe a friend sent you a link a
 
 Facebook Incognito is a browser extension which removes this overlay and let's you browse the pages unhindered.
 
+![](img/annoying.gif)
 
 Installation
 ------------
