@@ -3,7 +3,7 @@
 
   "name": "Facebook Incognito",
   "description": "Removes the Facebook overlay which prompts for login",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage_url": "https://github.com/goncalor/facebook-incognito",
 
   "content_scripts": [
