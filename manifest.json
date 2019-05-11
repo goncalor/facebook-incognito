@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Facebook Incognito",
+  "name": "Incognito for Facebook",
   "description": "Removes the Facebook overlay which prompts for login",
   "version": "0.1.2",
   "homepage_url": "https://github.com/goncalor/facebook-incognito",
